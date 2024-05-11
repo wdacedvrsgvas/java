@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="E:\language environment\java8\jre" version="1.8.0_381">
+        <bootpath>
+            <entry path="E:\language environment\java8\jre\lib\resources.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\rt.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\jsse.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\jce.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\charsets.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\jfr.jar"/>
+            <entry path="E:\language environment\java8\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\language environment\java8\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\language environment\java8\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\language environment\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047\jre" version="17.0.8.1"/>
+    <libraryInfo home="E:\language environment\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.8.v20230831-1047" version="17.0.8.1"/>
+    <libraryInfo home="E:\language environment\java" version="1.8.0_381">
+        <bootpath>
+            <entry path="E:\language environment\java\jre\lib\resources.jar"/>
+            <entry path="E:\language environment\java\jre\lib\rt.jar"/>
+            <entry path="E:\language environment\java\jre\lib\jsse.jar"/>
+            <entry path="E:\language environment\java\jre\lib\jce.jar"/>
+            <entry path="E:\language environment\java\jre\lib\charsets.jar"/>
+            <entry path="E:\language environment\java\jre\lib\jfr.jar"/>
+            <entry path="E:\language environment\java\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\language environment\java\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\language environment\java\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\language environment\java8" version="1.8.0_381">
+        <bootpath>
+            <entry path="E:\language environment\java8\jre\lib\resources.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\rt.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\jsse.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\jce.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\charsets.jar"/>
+            <entry path="E:\language environment\java8\jre\lib\jfr.jar"/>
+            <entry path="E:\language environment\java8\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\language environment\java8\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\language environment\java8\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>
